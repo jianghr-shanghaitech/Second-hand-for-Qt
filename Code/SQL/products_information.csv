@@ -1,0 +1,12 @@
+product_id,price,seller_id,product_name,image,description,if_banned,tag,amount
+product_id_90228c2c3205625d1e38b6e6fa6aef5d,9999,d3026a37c424bdab5f5de217e301f258,computer,13117ce62e5be51fa0e35b4564177430.jpeg,Power miner for digging,FALSE,PC,2
+product_id_c28048e865f62d71ee28ce35f4bef1df,20,d3026a37c424bdab5f5de217e301f258,electric saw,4d012c2329c96601287dcf06f90d7bf8.jpeg,"Very sharp, use carefully, do not kill anyone with it!",TRUE,tool,5
+product_id_048b0cb5afa184bbb934ca51647092a3,30,d3026a37c424bdab5f5de217e301f258,Teddy Bear,"u=3434309033,2501644369&fm=26&fmt=auto.webp",A cute Teddy Bear!,FALSE,toy,3
+product_id_8dab908db229e452f2a1addb9c4c436d,5,d3026a37c424bdab5f5de217e301f258,Spoon,part-00670-3438.jpg,"Wood Spoons, not been used",FALSE,cooker,10
+product_id_910634ff261ab6e750c06800e34c5035,1,d3026a37c424bdab5f5de217e301f258,Super Car,f5a548322e1957d16cc72d18a8a55f25.jpeg,"A very cool car, but very cheap !",FALSE,toy,2
+product_id_5f740f9878789b43a14db970584c7e27,40,d3026a37c424bdab5f5de217e301f258,Cake,"u=3838749353,1392309470&fm=26&fmt=auto.webp",Delicious Cake,FALSE,food,1
+product_id_cd211c089ad4a194f3d6410d0bae3870,10000,12daa9df9a8e588f10cbcd6146509e8d,GPhone,a15496a19487193a95dfce8041052579.jpeg,99% new,FALSE,phone,4
+product_id_09c9d5d28cd06ce4bb6ba57517e9bf2d,9,d3026a37c424bdab5f5de217e301f258,shirt,006e9cf361fa9fc3879405515a34af48.jpeg,Nice shirt,FALSE,shirt,5
+product_id_229e6294d02a7b1a78521925d6d1fe51,20,d3026a37c424bdab5f5de217e301f258,Kitchen Knife,c46902a1ed47ae580856dbf745c6d18f.jpeg,"Very sharp, very expensive, can small knife.",FALSE,cooker,1
+product_id_10b77035fa97b674633b23a645673777,39,d3026a37c424bdab5f5de217e301f258,Toy Shark,"u=639555083,4226196772&fm=26&fmt=auto.webp","Very acute Shark , named by nana7mi",FALSE,toy,2
+product_id_8195c85e930e69520630229a9b529458,2,d3026a37c424bdab5f5de217e301f258,hamburgers,4c1f5d7ba53c5c00eaa974a124332b5e.jpeg,very delicious!!!,FALSE,food,1

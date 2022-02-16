@@ -1,0 +1,6 @@
+<<<<<<< Updated upstream
+.DS_Store
+=======
+>>>>>>> Stashed changes
+*.pyc
+__pycache__

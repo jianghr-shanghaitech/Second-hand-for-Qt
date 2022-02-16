@@ -1,0 +1,4 @@
+1.Check the process of the Register and Check if SQL saves the User inf well
+2.Check the process of the Login/Delete and Check if SQL gives the User inf well
+3.Check the process of the contact and Check if messages are stored and loaded well.
+4.Check the process of the Trade and Check if all the information related to the Trade is correct ( ps:Money, Purchase History, Status of Tarde )
